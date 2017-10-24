@@ -2,12 +2,12 @@
 
 
 1.	Arduino Code and  motor setup
-      a.	Originally, the goal was to make a spin-coater where the user would be capable of defining an acceleration program. This             Arduino code currently allows for the user to define a desired-frequency and sends this frequency to and ESC connected to the hard       drive (see picture 1). The frequency is then incremented by 1000 rpm until the frequency exceeds 7000 rpm.
+      a.	Originally, the goal was to make a spin-coater where the user would be capable of defining an acceleration program. This            Arduino code currently allows for the user to define a desired-frequency and sends this frequency to and ESC connected to the            hard drive (see picture 1). The frequency is then incremented by 1000 rpm until the frequency exceeds 7000 rpm.
       b.	Future directions
-            i.	Measure the maximum rotation of the disk for calibration. The code currently assumes that the maximum acceleration will               be around 7000 rpm.
-            ii.	Add more loops so that the user can develop timed acceleration programs that fit their applications. example: linear                 acceleration with defined increment followed by another acceleration (linear, exponential, etc.)
+            i.	Measure the maximum rotation of the disk for calibration. The code currently assumes that the maximum acceleration will                   be around 7000 rpm.
+            ii.	Add more loops so that the user can develop timed acceleration programs that fit their applications. example: linear                     acceleration with defined increment followed by another acceleration (linear, exponential, etc.)
       c.	Notes
-            i.	It seems like the calibration is not necessary every time the program is booted up. The sudden burst resulting from the 0             to 179 signal jump could affect spreading results. 
+            i.	It seems like the calibration is not necessary every time the program is booted up. The sudden burst resulting from the                   0 to 179 signal jump could affect spreading results. 
 2.	Platform on SolidWorks and 3D printing
       a.	The goal of this part was to create a platform on which the sample would lie. The base of the platform would then attach to the       hard drive. The SolidWorks file for the base can be found in the attachments.
 b.	Future directions: 
