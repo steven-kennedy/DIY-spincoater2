@@ -9,7 +9,7 @@
       c.	Notes
             i.	It seems like the calibration is not necessary every time the program is booted up. The sudden burst resulting from the                   0 to 179 signal jump could affect spreading results. 
 2.	Platform on SolidWorks and 3D printing
-      a.	The goal of this part was to create a spinning platform on which the sample would lie. The base of the platform attaches to         the hard drive by connection with the extra cylinder. The extra cylinder rests on the top of the spinning hard drive          base       and is bolted down to it at the holes.  The SolidWorks file for the base and extra cylinder can be found in the attachments.             (picture 2 gives a side-view of the setup green=platform, red=extra cylinder, black=base, blue=bolts). 
+      a.	The goal of this part was to create a spinning platform on which the sample would lie. The base of the platform attaches to         the hard drive by connection with the extra cylinder. The extra cylinder rests on the top of the spinning hard drive          base       and is bolted down to it at the base's holes (pictures 4 and 5).  The SolidWorks file for the base and extra cylinder can be found in the attachments.             (picture 2 gives a side-view of the setup green=platform, red=extra cylinder, black=base, blue=bolts). 
       b.	Future directions: 
             i.	Drill holes and complete setup of the base.
 3.	Opening the hard drive
