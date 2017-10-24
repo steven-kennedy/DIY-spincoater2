@@ -1,4 +1,4 @@
-# DIY-spincoater2
+ # DIY-spincoater2
 
 This spin coater was made using a TonkaMD/Galaxy3D hard drive. Parts may vary depending on which hard drive you are using.
 
@@ -18,4 +18,4 @@ This spin coater was made using a TonkaMD/Galaxy3D hard drive. Parts may vary de
       a.	On the hard-drive cover, there are two or three screws that are hidden by stickers. It will be impossible to remove the cover       unless these screws are removed as well, no matter how hard you force! The interior of the hard drive contains magnetized parts,         some of which must be removed in a certain order because of encumbrance by higher-up parts. There are numerous videos online that         show how to disassemble it, including this one: https://www.youtube.com/watch?v=N13zNjdShGw
 4.	The protective platform/tube and the laser cutter
       a.	These two parts are meant to collect any liquid that flies off of the platform and to protect the hard drive. The tube is           made of plexiglass, is about 10 cm high, and rests on the platform, which is supported by bolts connected to the hard drive. 
-      b.	The tube: The tube should rest simply on the platform. While the platform is spinning, excess fluid will fly off and collide       with the walls of the tube. When finished, the tube can easily be removed for simple washing. (See picture 3)
+      b.	The tube: The tube should rest simply on the platform, and in the final version will be covered with a small piece of               plexiglas or cardboard. While the platform is spinning, excess fluid will fly off and collide       with the walls of the tube.           When finished, the tube can easily be removed for simple washing. (See picture 3) For the final               version, the               supporting platform will be made out of plexiglas to facilitate cleaning.
