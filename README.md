@@ -1,5 +1,7 @@
 # DIY-spincoater2
 
+This spin coater was made using a TonkaMD/Galaxy3D hard drive. Parts may vary depending on which hard drive you are using.
+
 
 1.	Arduino Code and  motor setup
       a.	Originally, the goal was to make a spin-coater where the user would be capable of defining an acceleration program. This            Arduino code currently allows for the user to define a desired-frequency and sends this frequency to and ESC connected to the            hard drive (see picture 1). The frequency is then incremented by 1000 rpm until the frequency exceeds 7000 rpm.
